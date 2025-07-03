@@ -1,11 +1,53 @@
-# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI Tutorial 🔥🔥
-## https://www.youtube.com/watch?v=2XF-HgauItk
-![hirrd 1](https://github.com/user-attachments/assets/1da23b25-1f29-4402-be74-03685d9b732d)
+# Job Portal (MERN Stack)
 
-### Make sure to create a `.env` file with following variables -
+A full-stack **Job Portal Web Application** built using the MERN stack. It provides user login, job posting, admin control, and application management — ideal for employers and job seekers.
 
-```
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-VITE_CLERK_PUBLISHABLE_KEY=
-```
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB (with Mongoose)
+- **Authentication**: JSON Web Tokens (JWT), Role-based login (Admin/User)
+- **Tools**: Postman, Git, VSCode
+
+---
+
+## ✨ Features
+
+- 👩‍💼 Admin Dashboard: Create, update, delete job listings
+- 👨‍🎓 User Dashboard: Apply to jobs, track applications
+- 🔐 Login & Signup (JWT Auth)
+- 📦 RESTful API with secure routes
+- 🎯 Role-based UI rendering
+- 📱 Responsive UI (Bootstrap)
+
+---
+
+## 📁 Folder Structure
+
+```bash
+├── client          # React frontend
+│   ├── src
+│   ├── public
+├── server          # Express backend
+│   ├── models
+│   ├── routes
+│   ├── middleware
+│   └── controllers
+🚀 Getting Started (Local Setup)
+1️⃣ Backend
+bash
+Copy
+Edit
+cd server
+npm install
+npm run server
+2️⃣ Frontend
+bash
+Copy
+Edit
+cd client
+npm install
+npm start
