@@ -1,4 +1,4 @@
-# Job Portal (MERN Stack)
+# Job Portal
 
 A full-stack **Job Portal Web Application** built using the MERN stack. It provides user login, job posting, admin control, and application management — ideal for employers and job seekers.
 
