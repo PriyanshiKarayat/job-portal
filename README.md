@@ -46,7 +46,7 @@ npm install
 npm run server
 
  ```
-2️⃣ Frontend
+## 2️⃣ Frontend
 ```bash
 cd client
 npm install
