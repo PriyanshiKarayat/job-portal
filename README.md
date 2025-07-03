@@ -37,17 +37,20 @@ A full-stack **Job Portal Web Application** built using the MERN stack. It provi
 │   ├── middleware
 │   └── controllers
 🚀 Getting Started (Local Setup)
-1️⃣ Backend
-bash
-Copy
-Edit
+
+ ```
+## 1️⃣ Backend
+```bash
 cd server
 npm install
 npm run server
+
+ ```
 2️⃣ Frontend
-bash
-Copy
-Edit
+```bash
 cd client
 npm install
 npm start
+
+ ```
+
